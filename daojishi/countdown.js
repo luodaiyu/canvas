@@ -203,5 +203,4 @@ function renderDigit(x, y, num, cxt) {
             }
         }
     }
-
 }
